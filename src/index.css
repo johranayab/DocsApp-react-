@@ -5,5 +5,5 @@
     font-family: "gilroy";
 }
 ::selection{
-    color: rgba(188, 188, 49, 0.814) ;
+    color: hwb(73 15% 9% / 0.887);
 }
